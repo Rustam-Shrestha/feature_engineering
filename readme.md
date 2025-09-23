@@ -362,3 +362,6 @@ preprocessor = ColumnTransformer(transformers=[
 ])
 
 This README.md ensures a thorough understanding of data preparation, addressing all techniques from your study session and filling any potential knowledge gaps with practical and theoretical details. Copy this content into a README.md file for your project documentation.
+
+
+
